@@ -5,8 +5,10 @@ The goal is to create an accurate visual tool for learning polyrhythms. Via real
 Summary Poster:
 ![](https://user-images.githubusercontent.com/18381631/30888327-33055d04-a320-11e7-9800-1694d13e04de.png)
 
-Example 3/4 data:
-![](https://user-images.githubusercontent.com/18381631/30888423-c87a73ce-a320-11e7-9898-be6f07b41423.png)
+Sample 3/4 data:
+![](https://user-images.githubusercontent.com/18381631/30888509-2fc3567c-a321-11e7-9bd7-bf6921f1ef40.png)
 
-Example 4/5 data:
-![](https://user-images.githubusercontent.com/18381631/30888426-cbd337ea-a320-11e7-90b8-93b4d362856e.png)
+Sample 4/5 data:
+![](https://user-images.githubusercontent.com/18381631/30888511-31214100-a321-11e7-9ba8-a4729970a813.png)
+
+This is a work in progress, and I plan to digitize it completely so no physical components are required.
